@@ -1,6 +1,15 @@
 # hypertransit
+HyperTransit is a real-time bus tracking and public transit assistant designed for small and mid-sized cities. Built using Flutter and powered by Firebase, the app delivers live bus location tracking, estimated arrival times, nearby transit stops, and route visualizations on an interactive map. It enhances daily commuting by combining accurate, real-time data with a user-friendly interface. The app is scalable for various use cases including urban transport systems and campus shuttles.
 
-A new Flutter project.
+Key Features:
+
+📍 Real-time bus tracking with Google Maps integration
+
+🔐 Secure e-pass payments via Razorpay
+
+🔁 Cross-platform support (Android & iOS)
+
+🔄 Firebase-based real-time sync and user authentication
 
 # ScreenShots 
 ![image](https://github.com/user-attachments/assets/044a18c1-89a0-4222-95e6-3557204a6ae6)
