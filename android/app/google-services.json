@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067096852565",
+    "project_id": "hypertransit-2aa7c",
+    "storage_bucket": "hypertransit-2aa7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067096852565:android:158bbf2e3f03775b72ecdc",
+        "android_client_info": {
+          "package_name": "com.example.hypertransit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmdUF7OPCTF0ESUgWJ7sy6b7Hs3l-RJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

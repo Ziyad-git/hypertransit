@@ -1,0 +1,2 @@
+C:/Users/FASEELA/hypertransitapp-main/android/app/.cxx/Debug/3625625m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/FASEELA/hypertransitapp-main/android/app/.cxx/Debug/3625625m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
